@@ -7,7 +7,7 @@ This is a Helm Chart to deploy the [Snyk Broker](https://github.com/snyk/broker)
 
 ## Usage
 
-Clone this repository and navigate to the ```snyk-broker``` directory.
+Clone this repository and navigate to the ```snyk-broker-helm``` directory.
 
 Then run the following commands based on the repository type.
 
